@@ -18,14 +18,12 @@ _También permite incluir enlaces con cierta facilidad._
 
 * [Entre Clics](https://www.spreaker.com/show/entre-clics) - El Podcast de cultura digital que estoy promocionando. 
 
-## Expresiones de Gratitud 🎁(tal como las dejó el creador inicial del README)
+## Markdown puede ser mucha utilidad
 
-* Comenta a otros sobre este proyecto 📢
-* Invita una cerveza 🍺 a alguien del equipo. 
-* Da las gracias públicamente 🤓.
+* Permite difundir contenido 📢
+* Facilita la generación de código HTML 🍺. 
 * etc.
 
-Los primeros archivos fueron subidos en el espacio de trabajo desde la máquina de mi esposo, razón por la que aparece como colaborador... no sé qué hizo y luego si aparecí yo 😊
+ 😊
 
 ---
-Usando contribuciones de [Villanuevand](https://github.com/Villanuevand) 
